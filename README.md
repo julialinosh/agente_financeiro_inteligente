@@ -100,11 +100,3 @@ Como seu objetivo é "guardar dinheiro", reduzir a categoria de maior gasto pode
 - Processamento simples de texto  
 
 ---
-
-## 🚀 Próximas melhorias
-
-- Interface gráfica com Streamlit  
-- Integração com IA (Ollama ou GPT)  
-- Salvamento de dados em JSON/CSV  
-- Gráficos de gastos  
-- Memória de conversa do usuário  
